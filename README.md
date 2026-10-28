@@ -43,4 +43,12 @@ Status
 
 Long-Term Objective
 
-To provide organizations with an auditable, privacy-preserving trust layer capable of proving authenticity, integrity and chain-of-custody across multiple systems and jurisdictions.
+The Sovereign Trust Layer does not store business data.
+
+It stores verifiable evidence about digital assets.
+
+The underlying asset remains under the control of its owner.
+
+Only cryptographic proofs, integrity metadata,
+signatures, Merkle roots and anchoring evidence
+are processed by the platform.To provide organizations with an auditable, privacy-preserving trust layer capable of proving authenticity, integrity and chain-of-custody across multiple systems and jurisdictions.
