@@ -13,8 +13,6 @@ Merkle proof generation
 Blockchain anchoring
 FastAPI-based API architecture
 Vision
-
-Vision:
  
 The Sovereign Trust Layer establishes an independent trust framework for digital assets by providing cryptographic evidence of integrity, provenance and chain-of-custody. The platform does not aim to store, process or replicate confidential business data. Instead, it focuses on verifiable cryptographic proofs, digital signatures, Merkle proofs and blockchain anchoring artifacts that can be independently audited.
  
